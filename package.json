@@ -1,0 +1,19 @@
+{
+  "name": "e-commerce-app",
+  "version": "1.0.0",
+  "description": "an e-commerce-app project for codecademy ",
+  "license": "ISC",
+  "author": "MaxiJRom <maxiromero11@hotmail.com>",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --watch app.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
